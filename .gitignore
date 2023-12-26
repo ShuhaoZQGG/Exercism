@@ -13,6 +13,8 @@
 
 # Compiled Dynamic libraries
 CMakeFiles
+CMakeCache.txt
+Makefile
 *.so
 *.dylib
 *.dll
