@@ -1,3 +1,7 @@
+#Exercism
+.Exercism
+.vscode
+cpp/*/test
 # Prerequisites
 *.d
 
@@ -21,6 +25,7 @@ Makefile
 
 # Fortran module files
 *.mod
+!go.mod
 *.smod
 
 # Compiled Static libraries
